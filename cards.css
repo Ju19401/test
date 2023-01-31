@@ -1,4 +1,4 @@
-.container{
+.container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 16px;
@@ -6,9 +6,9 @@
 
 .cards1 {
   background-color: #F5F5F5;
-  height: 100%;
+  height: 73%;
   text-align: center;
-  margin-top: 3.5rem;
+  margin-top: 9.5rem;
 }
 .cards1 h1 {
   font-size: 2rem;
@@ -17,9 +17,9 @@
 
 .cards2 {
   background-color: #F5F5F5;
-  height: 110%;
+  height: 104%;
   text-align: center;
-  padding-top: 1rem;
+
 }
 
 .cards2 h2 {
@@ -34,9 +34,9 @@
 
 .cards3{
   background-color: #F5F5F5;
-  height: 100%;
+  height: 73%;
   text-align: center;
-  margin-top: 3.5rem;
+  margin-top: 9.4rem;
 }
 
 .cards3 h1 {
