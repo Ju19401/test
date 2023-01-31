@@ -1,0 +1,19 @@
+
+.btn {
+  background-color: white;
+  margin: 1rem;
+  border-radius: 1rem;
+}
+
+.btn2 {
+  background-color: #A4BE7B;
+  margin: 1rem;
+  border-radius: 1rem;
+}
+
+.btn1 {
+  background-color: #A0C3D2;
+  margin: 1rem;
+  border-radius: 1rem;
+  color: white;
+}
