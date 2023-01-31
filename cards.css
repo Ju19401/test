@@ -1,0 +1,49 @@
+.container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 16px;
+
+
+}
+
+.cards1 {
+  background-color: #F5F5F5;
+  height: 100%;
+  text-align: center;
+
+  margin-top: 3.5rem;
+}
+.cards1 h1 {
+  font-size: 2rem;
+  font-weight: 100;
+}
+
+.cards2 {
+  background-color: #F5F5F5;
+  height: 110%;
+  text-align: center;
+  padding-top: 1rem;
+
+}
+
+.cards2 h1 {
+  font-size: 2rem;
+  font-weight: 100;
+}
+
+
+.cards3{
+  background-color: #F5F5F5;
+  height: 100%;
+  text-align: center;
+  margin-top: 3.5rem;
+}
+
+.cards3 h1 {
+  font-size: 2rem;
+  font-weight: 100;
+}
+
+p {
+  font-weight: 100;
+}
